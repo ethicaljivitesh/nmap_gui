@@ -1,1 +1,1 @@
-web: gunicorn nmapgui:app
+web: gunicorn nmap_gui:app
