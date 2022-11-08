@@ -1,1 +1,1 @@
-web: gunicorn nmap_gui.wsgi
+web: gunicorn nmapgui.wsgi
